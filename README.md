@@ -2,6 +2,24 @@
 
 # hi! i'm jed 🌻
 
+<div class="tenor-gif-embed"
+     data-postid="17585515"
+     data-share-method="host"
+     data-aspect-ratio="1.33333"
+     data-width="100%">
+  <a href="https://tenor.com/view/typing-anime-cat-kitty-cute-gif-17585515">
+    Typing Anime GIF
+  </a>
+  from
+  <a href="https://tenor.com/search/typing-gifs">
+    Typing GIFs
+  </a>
+</div>
+
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  
+</script>
+
 *Data • Technology • Human behavior*
 
 
