@@ -1,5 +1,10 @@
+<div align="center">
+
 # hi! i'm jed 🌻
 
+*Data • Technology • Human behavior*
+
+</div>
 ### Computer Science Graduate · Data Analytics · Creative Technology
 
 I build things where **data, technology, and human behavior intersect**.
