@@ -1,4 +1,4 @@
-# Hi, I'm Jed 👋
+# hi! i'm jed 🌻
 
 ### Computer Science Graduate · Data Analytics · Creative Technology
 
@@ -9,27 +9,28 @@ Currently exploring:
 - 🐍 Python · SQL · Power BI
 - 🗄️ Data Engineering & Visualization
 - 🤖 Machine Learning & AI
+- 📸 Computer Vision and Image Processing
 
 ---
 
 ## Featured Projects
 
-### 🎧 Spotify Listening Analytics
+### Spotify Listening Analytics
 Longitudinal analysis of 8+ years of Spotify listening history,
 exploring listening behavior, artist discovery, retention, and
 musical breadth.
 
 **Python · SQLite · SQL · Power BI**
 
-🚧 Power BI dashboard in progress
+*Power BI dashboard in progress*
 
-### 🏛️ MataMuseo
+### MataMuseo
 An Android museum companion using computer vision to recognize
 museum artifacts and provide contextual information.
 
 **Flutter · Python · MobileViT · Computer Vision**
 
-### 🤟 KAWAY ASL
+### KAWAY ASL
 Real-time American Sign Language recognition using hand landmarks
 and machine learning.
 
@@ -64,4 +65,4 @@ React · Flutter · Laravel · Git
 
 ## Let's Connect
 
-[LinkedIn] · [Email]
+[https://linkedin.com/in/rjrborillo] · [Email]
